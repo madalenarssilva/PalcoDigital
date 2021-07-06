@@ -10,4 +10,5 @@
 ### Fases desenvolvimento:
 
 
-### Co-autores: Beatriz Santos, Francisco Miranda
+### Co-autores: 
+> Beatriz Santos, Francisco Miranda
