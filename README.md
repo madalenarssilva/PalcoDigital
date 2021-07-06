@@ -10,17 +10,17 @@
 
 ### Fases desenvolvimento:
 
->![Imagem1](https://user-images.githubusercontent.com/56888274/124591668-78309100-de54-11eb-9cbd-22d91fe77090.png)
+![Imagem1](https://user-images.githubusercontent.com/56888274/124591668-78309100-de54-11eb-9cbd-22d91fe77090.png)
 > Instalação do Software Kinect Studio para reconhecimento do esqueleto humano
->![Imagem2](https://user-images.githubusercontent.com/56888274/124592037-eb3a0780-de54-11eb-943a-3a770ff03c46.png)
+![Imagem2](https://user-images.githubusercontent.com/56888274/124592037-eb3a0780-de54-11eb-943a-3a770ff03c46.png)
 > Construção do cenário de background e reconhecimento do esqueleto no cenário em unity com os pontos essenciais.
->![Imagem3](https://user-images.githubusercontent.com/56888274/124592690-9f3b9280-de55-11eb-9fdf-828212e04fc5.png)
+![Imagem3](https://user-images.githubusercontent.com/56888274/124592690-9f3b9280-de55-11eb-9fdf-828212e04fc5.png)
 > Deteção de movimentos: andar para a direita, esquerda, pular e selecionar. 
->![Imagem4](https://user-images.githubusercontent.com/56888274/124592692-a1055600-de55-11eb-80a0-18b770e16d57.png)
+![Imagem4](https://user-images.githubusercontent.com/56888274/124592692-a1055600-de55-11eb-80a0-18b770e16d57.png)
 > Design dos membros da personagem e mapeamento dos membros para o esqueleto em unity. 
->![Imagem5](https://user-images.githubusercontent.com/56888274/124592701-a2368300-de55-11eb-99ab-7008af2629f7.png)
+![Imagem5](https://user-images.githubusercontent.com/56888274/124592701-a2368300-de55-11eb-99ab-7008af2629f7.png)
 > Inserção de objetos no cenário.
->![Imagem6](https://user-images.githubusercontent.com/56888274/124592704-a2cf1980-de55-11eb-9822-0d06d66b33b0.png)
+![Imagem6](https://user-images.githubusercontent.com/56888274/124592704-a2cf1980-de55-11eb-9822-0d06d66b33b0.png)
 > Criação das personagens e mapeamento destas na personagem tendo em conta aquela que foi selecionada.
 
 ### Co-autores: 
