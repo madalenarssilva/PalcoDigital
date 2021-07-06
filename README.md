@@ -6,6 +6,7 @@
 > - Deslocar pelo cenário - *movimento: inclinação do corpo para a esquerda ou direita*
 > - Trocar de personagem - *movimento: salto e apontar para a personagem seguido de um swipe na personagem escolhida*
 > - Apanhar os diversos objetos que estão no cenário - *movimento: swipe*
+> - Fechar o cenário - *movimento: swipe down com os dois braços*
 
 ### Fases desenvolvimento:
 
