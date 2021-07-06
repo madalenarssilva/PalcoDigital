@@ -3,11 +3,11 @@
 
 ## Versão 1.0
 > Esta versão é uma prova de conceito e permite que um ator interaja com a plataforma através de movimentos, utilizando o kinect. Esta versão permite:
-> - Deslocar pelo cenário (movimento: inclinação do corpo para a esquerda ou direita)
-> - Trocar de personagem (movimento: salto e apontar para a personagem seguido de um swipe na personagem escolhida)
-> - Apanhar os diversos objetos que estão no cenário (movimento: swipe)
+> - Deslocar pelo cenário - *movimento: inclinação do corpo para a esquerda ou direita*
+> - Trocar de personagem - *movimento: salto e apontar para a personagem seguido de um swipe na personagem escolhida*
+> - Apanhar os diversos objetos que estão no cenário - *movimento: swipe*
 
 ### Fases desenvolvimento:
 
 
-###Co-autores: Beatriz Santos, Francisco Miranda
+### Co-autores: Beatriz Santos, Francisco Miranda
