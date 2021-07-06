@@ -11,7 +11,7 @@
 ### Fases desenvolvimento:
 
 ![Imagem1](https://user-images.githubusercontent.com/56888274/124591668-78309100-de54-11eb-9cbd-22d91fe77090.png)
-Instalação do Software Kinect Studio para reconhecimento do esqueleto humano
+> Instalação do Software Kinect Studio para reconhecimento do esqueleto humano
 
 
 
